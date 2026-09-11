@@ -1,0 +1,6 @@
+library
+pinecone
+langchain-pinecone
+langchain
+langchain-core
+langchain-community

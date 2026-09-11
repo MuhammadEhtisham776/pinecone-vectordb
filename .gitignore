@@ -1,0 +1,6 @@
+.env
+langchain_env/
+.venv/
+.cache/huggingface/
+.ipynb_checkpoints/
+__pycache__/
